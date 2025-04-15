@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744713524 source:c:\aqib\projects\projects c\code\hangman-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+

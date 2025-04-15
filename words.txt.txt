@@ -1,0 +1,6 @@
+apple
+banana
+computer
+hangman
+elephant
+programming
